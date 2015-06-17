@@ -1,6 +1,8 @@
 angular-placeholder-shim
 ===============
 
+*This fork makes minor tweaks to get `ng-touched` working properly*
+
 Angular directive to make the input/textarea placeholder attribute work on all browsers.
 Uses the [jquery-html5-placeholder-shim](https://github.com/parndt/jquery-html5-placeholder-shim).
 
